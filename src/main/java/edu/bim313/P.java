@@ -5,7 +5,6 @@ package edu.bim313;
  */
 
 enum P {
-
     SHORTEST,
     LONGEST
 }

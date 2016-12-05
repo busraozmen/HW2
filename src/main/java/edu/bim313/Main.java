@@ -9,7 +9,6 @@ package edu.bim313;
         import java.util.stream.Collectors;
         import java.util.stream.IntStream;
 
-
 public class Main {
 
     @Option(name = "-n", required = true)
